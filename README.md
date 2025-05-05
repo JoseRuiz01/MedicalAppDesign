@@ -65,7 +65,7 @@
 
 - **Prototyping**: Figma / Sketch
 - **Design Iteration**: Paper & digital wireframes
-- **Evaluation Tools**: Moderated usability testing, surveys, analytics
+- **Evaluation Tools**: Moderated usability testing, interviews, surveys, analytics
 
 ---
 
